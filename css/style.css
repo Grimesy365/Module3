@@ -1,0 +1,35 @@
+
+
+
+/** HEADER **/
+#header-nav {	
+	border-radius:0;
+	border: 0;
+}
+
+#nav-list{
+	margin-top: 10px;
+}
+
+#nav-list a{
+	color: #000;
+	text-align: center
+}
+
+#nav-list a:hover{
+	color: #028ef1;
+}
+#header{
+	text-align: center;
+	margin-bottom: 50px;
+}
+.columns-header{
+	text-align: center;	
+}
+
+.columns{
+	background-color: #999;
+	color: #000;
+	padding: 10px;
+	margin-bottom: 20px;
+}
